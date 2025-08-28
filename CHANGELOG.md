@@ -2,12 +2,7 @@
 
 ## 3.27.0
 
-### Minor Changes
-
 - 190d4a2: support orchestration mode for sap provider
-
-### Patch Changes
-
 - 550883d: Fixes an issue where thinking text from litellm was not being passed through to Cline thinking UI
 - 1ab3de8: Fix Ollama connection issue to default endpoint at port 11434
 - cdc2489: Optimized Cline for GPT-5 model family with an aligned system prompt
